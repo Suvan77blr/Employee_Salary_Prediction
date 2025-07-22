@@ -1,0 +1,24 @@
+
+# Python-specific files
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.xml
+*.h5
+*.pkl
+*.pkl.gz
+
+# Machine learning model files
+model/
+*.h5
+*.pkl
+
+# IDE-specific files
+.vscode/
