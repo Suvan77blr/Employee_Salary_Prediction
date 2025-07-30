@@ -1,6 +1,7 @@
 
 # Python-specific files
 __pycache__/
+myenv/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
