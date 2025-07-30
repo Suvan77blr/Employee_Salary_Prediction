@@ -13,13 +13,13 @@ myenv/
 *.xlsx
 *.xml
 *.h5
-*.pkl
+# *.pkl
 *.pkl.gz
 
 # Machine learning model files
 model/
 *.h5
-*.pkl
+# *.pkl
 
 # IDE-specific files
 .vscode/
